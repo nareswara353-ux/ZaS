@@ -1,0 +1,21 @@
+[package]
+name = "zero-alloc-benches"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+criterion = "0.5"
+zero-alloc-core = { path = "../core" }
+zero-alloc-ffi = { path = "../ffi" }
+
+[[bench]]
+name = "full_paper_suite"
+harness = false
+
+[[bench]]
+name = "latency_distributions"
+harness = false
+
+[[bench]]
+name = "ffi_bench"
+harness = false

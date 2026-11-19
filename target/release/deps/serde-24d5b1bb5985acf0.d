@@ -1,0 +1,14 @@
+/home/narezzzs/Documents/GitHub & Gitlab/zero-alloc-stream/target/release/deps/serde-24d5b1bb5985acf0.d: /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/narezzzs/Documents/GitHub\ &\ Gitlab/zero-alloc-stream/target/release/build/serde-51e1bcfa864dd570/out/private.rs
+
+/home/narezzzs/Documents/GitHub & Gitlab/zero-alloc-stream/target/release/deps/libserde-24d5b1bb5985acf0.rlib: /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/narezzzs/Documents/GitHub\ &\ Gitlab/zero-alloc-stream/target/release/build/serde-51e1bcfa864dd570/out/private.rs
+
+/home/narezzzs/Documents/GitHub & Gitlab/zero-alloc-stream/target/release/deps/libserde-24d5b1bb5985acf0.rmeta: /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/narezzzs/Documents/GitHub\ &\ Gitlab/zero-alloc-stream/target/release/build/serde-51e1bcfa864dd570/out/private.rs
+
+/home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/narezzzs/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/narezzzs/Documents/GitHub\ &\ Gitlab/zero-alloc-stream/target/release/build/serde-51e1bcfa864dd570/out/private.rs:
+
+# env-dep:OUT_DIR=/home/narezzzs/Documents/GitHub & Gitlab/zero-alloc-stream/target/release/build/serde-51e1bcfa864dd570/out
